@@ -3,3 +3,10 @@ const Shiba = () => {
 }
 
 ReactDOM.render(<Shiba />, document.getElementById("root"))
+
+
+// ReactDOM.render(<Shiba />, document.getElementById("root"))
+//Have to include in order to make react work
+{/* <script src="https://unpkg.com/@babel/standalone/babel.js"></script>
+
+<script src="Shiba.js" type="text/jsx"></script> */}
