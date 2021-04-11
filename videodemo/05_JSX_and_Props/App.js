@@ -11,6 +11,7 @@ const App = () => (
       name="Stevie Chicks"
       species="Silkie Chicken"
       emoji="🐔"
+      //boolean props, if you don't pass in value on ex. isCute will automatically be true
       isCute
     />
     <Animal name="Patrick" species="Red Fox" emoji="🦊" />
