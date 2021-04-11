@@ -1,3 +1,5 @@
+//class based vs functional components
+
 const App = () => (
   <div>
     <h2>Dogs!</h2>
